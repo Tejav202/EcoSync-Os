@@ -1,0 +1,9 @@
+
+{
+  "name": "EcoSync OS",
+  "description": "A specialized AI interface for Human-Centric Smart Factories that prioritizes worker safety, machine efficiency, and eco-friendly operations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
